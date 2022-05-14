@@ -9,6 +9,9 @@
 # branch1 - 4 commit
 # branch1 - 5 commit
 # branch1 - 6 commit
+# Clone2 branch1 - 1 commit
+# Clone2 branch1 - 2 commit
+# Clone2 branch1 - 3 commit
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
